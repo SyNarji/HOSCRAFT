@@ -6,7 +6,7 @@ ALLOCATED_RAM="4G"
 JVM_ARGUMENTS="-XX:+UseG1GC -XX:+UnlockExperimentalVMOptions -XX:MaxGCPauseMillis=100 -XX:+DisableExplicitGC -XX:TargetSurvivorRatio=90 -XX:G1NewSizePercent=50 -XX:G1MaxNewSizePercent=80 -XX:G1MixedGCLiveThresholdPercent=50 -XX:+AlwaysPreTouch"
 
 # Make sure this matches the Forge version of the server if you update.
-FORGE_VERSION="forge-1.16.5-36.1.32"
+FORGE_VERSION="forge-1.16.5-36.2.20"
 
 # Install Minecraft Forge if it isn't already installed.
 FILE=./${FORGE_VERSION}.jar
