@@ -1,0 +1,115 @@
+To refresh this file, delete it and run /reload command again! Last updated: Jul 1, 2021 8:39:50 PM
+
+#mekanism:dirty/zinc
+- jaopca:mekanism_dirty.zinc
+
+#mekanism:dirty
+- mekanism:dirty_iron
+- mekanism:dirty_gold
+- mekanism:dirty_osmium
+- mekanism:dirty_copper
+- mekanism:dirty_tin
+- mekanism:dirty_lead
+- mekanism:dirty_uranium
+- jaopca:mekanism_dirty.aluminum
+- jaopca:mekanism_dirty.azure_silver
+- jaopca:mekanism_dirty.cobalt
+- jaopca:mekanism_dirty.crimson_iron
+- jaopca:mekanism_dirty.desh
+- jaopca:mekanism_dirty.nebu
+- jaopca:mekanism_dirty.nickel
+- jaopca:mekanism_dirty.oratchalcum
+- jaopca:mekanism_dirty.quicksilver
+- jaopca:mekanism_dirty.silicon
+- jaopca:mekanism_dirty.silver
+- jaopca:mekanism_dirty.zinc
+
+#mekanism:dirty/desh
+- jaopca:mekanism_dirty.desh
+
+#mekanism:clean/quicksilver
+- jaopca:mekanism_clean.quicksilver
+
+#mekanism:dirty/nickel
+- jaopca:mekanism_dirty.nickel
+
+#mekanism:clean/cobalt
+- jaopca:mekanism_clean.cobalt
+
+#mekanism:clean
+- mekanism:clean_iron
+- mekanism:clean_gold
+- mekanism:clean_osmium
+- mekanism:clean_copper
+- mekanism:clean_tin
+- mekanism:clean_lead
+- mekanism:clean_uranium
+- jaopca:mekanism_clean.aluminum
+- jaopca:mekanism_clean.azure_silver
+- jaopca:mekanism_clean.cobalt
+- jaopca:mekanism_clean.crimson_iron
+- jaopca:mekanism_clean.desh
+- jaopca:mekanism_clean.nebu
+- jaopca:mekanism_clean.nickel
+- jaopca:mekanism_clean.oratchalcum
+- jaopca:mekanism_clean.quicksilver
+- jaopca:mekanism_clean.silicon
+- jaopca:mekanism_clean.silver
+- jaopca:mekanism_clean.zinc
+
+#mekanism:clean/silicon
+- jaopca:mekanism_clean.silicon
+
+#mekanism:clean/crimson_iron
+- jaopca:mekanism_clean.crimson_iron
+
+#mekanism:dirty/silver
+- jaopca:mekanism_dirty.silver
+
+#mekanism:dirty/azure_silver
+- jaopca:mekanism_dirty.azure_silver
+
+#mekanism:clean/aluminum
+- jaopca:mekanism_clean.aluminum
+
+#mekanism:clean/azure_silver
+- jaopca:mekanism_clean.azure_silver
+
+#mekanism:clean/zinc
+- jaopca:mekanism_clean.zinc
+
+#mekanism:dirty/aluminum
+- jaopca:mekanism_dirty.aluminum
+
+#mekanism:dirty/nebu
+- jaopca:mekanism_dirty.nebu
+
+#mekanism:dirty/quicksilver
+- jaopca:mekanism_dirty.quicksilver
+
+#mekanism:clean/nickel
+- jaopca:mekanism_clean.nickel
+
+#mekanism:dirty/crimson_iron
+- jaopca:mekanism_dirty.crimson_iron
+
+#mekanism:dirty/oratchalcum
+- jaopca:mekanism_dirty.oratchalcum
+
+#mekanism:clean/oratchalcum
+- jaopca:mekanism_clean.oratchalcum
+
+#mekanism:clean/desh
+- jaopca:mekanism_clean.desh
+
+#mekanism:dirty/cobalt
+- jaopca:mekanism_dirty.cobalt
+
+#mekanism:clean/silver
+- jaopca:mekanism_clean.silver
+
+#mekanism:dirty/silicon
+- jaopca:mekanism_dirty.silicon
+
+#mekanism:clean/nebu
+- jaopca:mekanism_clean.nebu
